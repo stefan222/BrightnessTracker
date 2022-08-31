@@ -22,17 +22,18 @@ android {
         }
     }
 
-    signingConfigs {
-        debug {
-            storeFile file("../../AS-Projects/org_digitalcure_android_common/keystore/debug.keystore")
-        }
-        release {
-            storeFile file("../../AS-Projects/org_digitalcure_android_common/keystore/digitalcure.keystore")
-            storePassword properties['KEYSTOREPASSWORD']
-            keyAlias "release"
-            keyPassword properties['KEYALIASPASSWORD']
-        }
-    }
+    // Note: Insert you own keystores here!
+//    signingConfigs {
+//        debug {
+//            storeFile file("../../AS-Projects/org_digitalcure_android_common/keystore/debug.keystore")
+//        }
+//        release {
+//            storeFile file("../../AS-Projects/org_digitalcure_android_common/keystore/digitalcure.keystore")
+//            storePassword properties['KEYSTOREPASSWORD']
+//            keyAlias "release"
+//            keyPassword properties['KEYALIASPASSWORD']
+//        }
+//    }
 
     buildTypes {
         release {
