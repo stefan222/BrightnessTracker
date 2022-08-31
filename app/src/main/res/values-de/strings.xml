@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BrightnessTracker</string>
+    <string name="channel_name">Service</string>
+    <string name="channel_description">Benachrichtigungen des Services für den Helligkeitssensor</string>
+    <string name="notification_message">Der Service misst die Helligkeit…</string>
+    <string name="error_no_light_sensor">Keinen Lichtsensor gefunden!</string>
+    <string name="error_no_external_app_folder">Kein externes App-Verzeichnis gefunden! Es werden keine Nachrichten in eine Datei geschrieben!</string>
+    <string name="button_start_service">SERVICE STARTEN</string>
+    <string name="button_stop_service">SERVICE BEENDEN</string>
+    <string name="label_threshold">Schwellwert:</string>
+    <string name="label_lx">lx</string>
+</resources>

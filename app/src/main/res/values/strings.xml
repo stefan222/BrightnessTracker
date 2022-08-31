@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BrightnessTracker</string>
+    <string name="channel_name">Service</string>
+    <string name="channel_description">Brightness sensor service notification</string>
+    <string name="notification_message">Service measures brightness values…</string>
+    <string name="error_no_light_sensor">No light sensor found!</string>
+    <string name="error_no_external_app_folder">No external app folder found! Messages will NOT be logged into a file!</string>
+    <string name="button_start_service">START SERVICE</string>
+    <string name="button_stop_service">STOP SERVICE</string>
+    <string name="label_threshold">Threshold:</string>
+    <string name="label_lx">lx</string>
+</resources>
