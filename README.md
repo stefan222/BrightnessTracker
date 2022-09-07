@@ -6,7 +6,7 @@ Topics: Jetpack Compose, ViewModel, Service, sensors, Clean Architecture.
 
 Initial publication date: August 31, 2022
 
-![Screenshot](doc/Screenshots/Main_de.png =540x1170)
+![Screenshot](doc/Screenshots/Main_de.png | width=540)
 
 ## Download
 
