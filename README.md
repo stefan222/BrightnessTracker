@@ -6,7 +6,7 @@ Topics: Jetpack Compose, ViewModel, Service, sensors, Clean Architecture.
 
 Initial publication date: August 31, 2022
 
-![Screenshot](doc/Screenshots/Main_de.png | width=540)
+<img src="https://github.com/stefan222/BrightnessTracker/blob/main/doc/Screenshots/Main_en.png" width="540">
 
 ## Download
 
