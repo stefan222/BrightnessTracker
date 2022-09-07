@@ -21,8 +21,8 @@ import java.io.FileWriter
 import java.io.PrintWriter
 
 /**
- * Logs all brightness tracker events into a file. Please note that the log messages are not
- * internationalized.
+ * Logs all brightness tracker events into a file AND the logcat. Please note that the log messages
+ * are not internationalized.
  */
 class BrightnessEventFileLogger(
     private val file: File

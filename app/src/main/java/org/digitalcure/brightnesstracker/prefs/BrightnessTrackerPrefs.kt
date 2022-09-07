@@ -28,6 +28,8 @@ class BrightnessTrackerPrefs(
     context: Context
 ) : IBrightnessTrackerPrefs {
     companion object {
+        private const val SHARED_PREFS_NAME = "BrightnessTracker"
+
         private const val PREFS_KEY_THRESHOLD = "threshold"
     }
 
@@ -49,6 +51,6 @@ class BrightnessTrackerPrefs(
 
     private fun getPrefs(): SharedPreferences? {
         val context = contextRef.get() ?: return null
-        return context.getSharedPreferences("BrightnessTracker", Context.MODE_PRIVATE)
+        return context.getSharedPreferences(SHARED_PREFS_NAME, Context.MODE_PRIVATE)
     }
 }
