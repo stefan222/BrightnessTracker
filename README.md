@@ -10,7 +10,7 @@ Initial publication date: August 31, 2022
 
 ## Download
 
-[http://download.mycalorieapp.de/BrightnessTracker.apk](http://download.mycalorieapp.de/BrightnessTracker.apk)
+[https://www.mycalorieapp.de/download/BrightnessTracker.apk](https://www.mycalorieapp.de/download/BrightnessTracker.apk)
 
 ## License
 
